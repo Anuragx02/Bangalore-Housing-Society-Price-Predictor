@@ -1,7 +1,7 @@
 # Bangalore-Housing-Society-Price-Predictor
 Machine Learning and Data science Project for making predication 
 
-First Install library which are needed
+Firstly, Import necessary libraries i.e
 
 pip install pandas
 

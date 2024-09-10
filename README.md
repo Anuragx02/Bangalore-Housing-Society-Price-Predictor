@@ -1,5 +1,7 @@
 # Bangalore-Housing-Society-Price-Predictor
-Machine Learning and Data science Project for making predication 
+This project is made using Jupyter Notebook, JavaScript, Pickle File for Machine Learning and Data science Project for making predication 
+
+Install Anaconda for Jupyter Notebook
 
 Firstly, Import necessary libraries i.e
 
